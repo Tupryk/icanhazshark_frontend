@@ -1,0 +1,14 @@
+.sharkFella {
+    position: absolute;
+}
+
+.sharkFella img {
+    animation: wave 2s linear infinite;
+}
+
+@keyframes wave {
+    0% { transform: scaleY(0.9) }
+    50% { transform: scaleY(1.1) }
+    100% { transform: scaleY(0.9) }
+}
+  
