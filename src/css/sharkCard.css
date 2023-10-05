@@ -1,0 +1,32 @@
+.card {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
+    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: aliceblue;
+    max-width: 50%;
+    min-width: 350px;
+    min-height: 90%;
+    z-index: 100;
+}
+
+.card h1 {
+    text-align: center;
+}
+
+.card h4 {
+    text-align: center;
+}
+
+.content {
+    margin: 50px;
+}
+
+.content img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

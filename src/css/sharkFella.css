@@ -6,6 +6,10 @@
     animation: wave 2s linear infinite;
 }
 
+.sharkFella p {
+    text-align: center;
+}
+
 @keyframes wave {
     0% { transform: scaleY(0.9) }
     50% { transform: scaleY(1.1) }
